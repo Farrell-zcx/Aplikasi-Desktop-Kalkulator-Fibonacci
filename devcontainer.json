@@ -1,0 +1,6 @@
+{
+  "name": "Python GUI",
+  "features": {
+    "ghcr.io/devcontainers/features/desktop-lite:1": {}
+  }
+}
